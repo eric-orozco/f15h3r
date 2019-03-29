@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
       <h1>React application for personal learning experience</h1>
+      <h2>enabled auto deploy</h2>
         <header className="App-header">
           
           <img src={logo} className="App-logo" alt="logo" />
